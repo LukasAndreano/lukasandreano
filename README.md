@@ -23,3 +23,6 @@
 * [Overwatch Hub](https://vk.com/owhub)
 * [Ссылочки](https://vk.com/links_app)
 * [Пароли](https://vk.com/app7908538)  
+
+### Актуальные фреймворки/библиотеки:
+* [VKBotAPI](https://github.com/LukasAndreano/VKBotAPI)
