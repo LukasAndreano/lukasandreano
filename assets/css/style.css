@@ -10,8 +10,8 @@ a, a:hover {
     align-items: center;
 }
 @media only screen and (max-width:767px) {
-    .gif {
-        display: none;
+    .gif img {
+        width: 100%;
     }
 }
 b {
