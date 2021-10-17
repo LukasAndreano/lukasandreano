@@ -26,3 +26,4 @@
 
 ### Актуальные фреймворки/библиотеки:
 * [VKBotAPI](https://github.com/LukasAndreano/VKBotAPI)
+* [VK Mini Apps params checker](https://www.npmjs.com/package/vkminiapps-params-checker)
