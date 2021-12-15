@@ -3,6 +3,7 @@
 ![php](https://img.shields.io/badge/-PHP-red)
 ![mongodb](https://img.shields.io/badge/-MongoDB-success)
 ![mysql](https://img.shields.io/badge/-MySQL-important)
+![python](https://img.shields.io/badge/-Python-yellow)
 
 ## Привет! Я - Никита 👋
 Девелопер. Сейчас занят над созданием PWA-приложений и сервисов VK Mini Apps на **React**.  
