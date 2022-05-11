@@ -5,7 +5,7 @@
 ![mysql](https://img.shields.io/badge/-MySQL-important)
 ![python](https://img.shields.io/badge/-Python-yellow)
 
-## Привет! Я - Никита 👋 (ТЕЛЕГРАМ: https://t.me/lukasandreano)
+## Привет! Я - Никита 👋 (ПЕРЕЙДИТЕ В ТЕЛЕГРАМ: https://t.me/lukasandreano)
 Девелопер. Сейчас занят над созданием PWA-приложений и сервисов VK Mini Apps на **React**.  
 
 👦🏼 Немного джун и Fullstack.  
