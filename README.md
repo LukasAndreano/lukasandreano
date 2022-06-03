@@ -16,6 +16,8 @@
 📕 Сейчас изучаю: разработку под iOS (swift, capacitor).
 
 👋 Моя страница ВК: [Никита Балин](https://vk.com/this.state.developer)  
+💬 Telegram: [Lukas Andreano](https://t.me/lukasandreano)
+
 💻 Пишу на MacBook Air M1.  
 ℹ️ Мне 17 лет.
 ### Актуальные проекты (PWA/VK Mini Apps):
