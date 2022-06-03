@@ -1,33 +1,36 @@
 ![react](https://img.shields.io/badge/-React-blueviolet)
 ![nodejs](https://img.shields.io/badge/-NodeJS-informational)
 ![php](https://img.shields.io/badge/-PHP-red)
-![mongodb](https://img.shields.io/badge/-MongoDB-success)
-![mysql](https://img.shields.io/badge/-MySQL-important)
+![mongodb](https://img.shields.io/badge/-MongoDB-blueviolet)
+![mysql](https://img.shields.io/badge/-MySQL-success)
 ![python](https://img.shields.io/badge/-Python-yellow)
 
-## Привет! Я - Никита 👋 
-Девелопер. Сейчас занят над созданием PWA-приложений и сервисов VK Mini Apps на **React**.  
+## Приветик! Я - Никита 👋 
+Девелопер и крейтор [koka team](https://vk.com/kokateam). Сейчас занят созданием web-приложений, сервисов VK Mini Apps, а также развитием [команды](https://vk.com/kokateam).  
 
 👦🏼 Немного джун и Fullstack.  
-🔨 Пишу на **React**, **NodeJS**, **Python** и **PHP**.  
-💾 Использую в качестве БД **MongoDB** и **MySQL**.  
-💻 Пишу на MacBook Air M1.
 
-📕 Сейчас изучаю: Swift, Docker.
+🧑‍💻 Языки, на которых я пишу: **React**, **NodeJS**, **Python** и **PHP**.  
+🔧 Использую в качестве БД: **MongoDB** и **MySQL**.  
 
-🖼 Моя страница ВК: [Никита Балин](https://vk.com/darkflamept)  
-👻 Мне 17 лет 😎
+📕 Сейчас изучаю: разработку под iOS (swift, capacitor).
 
-    react in my heart 💖
-
+👋 Моя страница ВК: [Никита Балин](https://vk.com/this.state.developer)  
+💻 Пишу на MacBook Air M1.  
+ℹ️ Мне 17 лет.
 ### Актуальные проекты (PWA/VK Mini Apps):
 * [Приложение КИТЭК](https://app.omsktec.ru)
+* [Beat Store](https://vk.com/beatstores)
 * [Уведомления](https://vk.com/app7915893)
-* [Мониторинг игровых серверов](https://vk.com/servercontrol)
-* [Overwatch Hub](https://vk.com/owhub)
-* [Ссылочки](https://vk.com/links_app)
-* [Пароли](https://vk.com/app7908538)  
+* [Hot Ali](https://vk.com/app8154948)
+* [steezyLink](https://vk.com/app8173597) 
 
 ### Актуальные фреймворки/библиотеки:
-* [VKBotAPI](https://github.com/LukasAndreano/VKBotAPI)
-* [VK Mini Apps params checker](https://www.npmjs.com/package/vkminiapps-params-checker)
+[![VK Mini Apps Frontend Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=vkma-boilerplate)](https://github.com/anuraghazra/github-readme-stats)
+[![VK Mini Apps Backend Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=vkma-backend-boilerplate)](https://github.com/anuraghazra/github-readme-stats)
+[![VK Mini Apps params checker](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=vkminiapps-params-checker)](https://github.com/anuraghazra/github-readme-stats)
+[![PHP VK Bot API](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=VKBotAPI)](https://github.com/anuraghazra/github-readme-stats)
+  
+### Статистика:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukasandreano&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats). 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasandreano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
