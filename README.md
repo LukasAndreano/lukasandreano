@@ -32,5 +32,4 @@
 [![PHP VK Bot API](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=VKBotAPI)](https://github.com/anuraghazra/github-readme-stats)
   
 ### Статистика:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukasandreano&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats). 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasandreano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukasandreano&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats).
