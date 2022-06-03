@@ -27,7 +27,7 @@
 * [Hot Ali](https://vk.com/app8154948)
 * [steezyLink](https://vk.com/app8173597) 
 
-### Актуальные фреймворки/библиотеки:
+### Актуальные бойлеры:
 [![VK Mini Apps Frontend Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=vkma-boilerplate)](https://github.com/anuraghazra/github-readme-stats)
 [![VK Mini Apps Backend Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=vkma-backend-boilerplate)](https://github.com/anuraghazra/github-readme-stats)
 [![VK Mini Apps params checker](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=vkminiapps-params-checker)](https://github.com/anuraghazra/github-readme-stats)
