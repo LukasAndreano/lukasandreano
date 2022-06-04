@@ -28,10 +28,10 @@
 * [steezyLink](https://vk.com/app8173597) 
 
 ### Актуальные бойлеры:
-[![VK Mini Apps Frontend Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=vkma-boilerplate)](https://github.com/anuraghazra/github-readme-stats)
-[![VK Mini Apps Backend Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=vkma-backend-boilerplate)](https://github.com/anuraghazra/github-readme-stats)
-[![VK Mini Apps params checker](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=vkminiapps-params-checker)](https://github.com/anuraghazra/github-readme-stats)
-[![PHP VK Bot API](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=VKBotAPI)](https://github.com/anuraghazra/github-readme-stats)
+[![VK Mini Apps Frontend Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=vkma-boilerplate)](https://github.com/lukasandreano/vkma-boilerplate)
+[![VK Mini Apps Backend Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=vkma-backend-boilerplate)](https://github.com/lukasandreano/vkma-backend-boilerplate)
+[![VK Mini Apps params checker](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=vkminiapps-params-checker)](https://github.com/lukasandreano/vkminiapps-params-checker)
+[![PHP VK Bot API](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=VKBotAPI)](https://github.com/lukasandreano/VKBotAPI)
   
 ### Статистика:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukasandreano&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats).
