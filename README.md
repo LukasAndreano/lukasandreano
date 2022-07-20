@@ -10,10 +10,10 @@
 
 👦🏼 Немного джун и Fullstack.  
 
-🧑‍💻 Языки, на которых я пишу: **React**, **NodeJS**, **Python** и **PHP**.  
+🧑‍💻 Языки, библиотеки и фреймворки на которых я пишу: **React**, **NestJS**, **NodeJS**, **Python** и **PHP**.  
 🔧 Использую в качестве БД: **MongoDB** и **MySQL**.  
 
-📕 Сейчас изучаю: **разработку под iOS (swift, capacitor)**.
+📕 Сейчас изучаю: **tarantool**.
 
 👋 Моя страница ВК: [Никита Балин](https://vk.com/this.state.developer)  
 💬 Telegram: [Lukas Andreano](https://t.me/lukasandreano)
@@ -23,9 +23,9 @@
 ### Актуальные проекты (PWA/VK Mini Apps):
 * [Приложение КИТЭК](https://app.omsktec.ru)
 * [Beat Store](https://vk.com/beatstores)
+* [steezyLink](https://vk.com/app8173597) 
 * [Уведомления](https://vk.com/app7915893)
 * [Hot Ali](https://vk.com/app8154948)
-* [steezyLink](https://vk.com/app8173597) 
 
 ### Актуальные бойлеры:
 [![VK Mini Apps Frontend Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=vkma-boilerplate)](https://github.com/lukasandreano/vkma-boilerplate)
