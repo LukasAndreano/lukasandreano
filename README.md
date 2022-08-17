@@ -19,7 +19,7 @@
 💬 Telegram: [Lukas Andreano](https://t.me/lukasandreano)
 
 💻 Пишу на MacBook Air M1.  
-💁‍♂️ Мне 17 лет.
+💁‍♂️ Мне 18 лет.
 ### Актуальные проекты (PWA/VK Mini Apps):
 * [Приложение КИТЭК](https://app.omsktec.ru)
 * [Beat Store](https://vk.com/beatstores)
