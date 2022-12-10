@@ -1,5 +1,6 @@
 ![react](https://img.shields.io/badge/-React-blueviolet)
 ![nodejs](https://img.shields.io/badge/-NodeJS-informational)
+![nestjs](https://img.shields.io/badge/-NestJS-blueviolet)
 ![php](https://img.shields.io/badge/-PHP-red)
 ![mongodb](https://img.shields.io/badge/-MongoDB-blueviolet)
 ![mysql](https://img.shields.io/badge/-MySQL-success)
@@ -10,8 +11,6 @@
 
 🧑‍💻 Языки, библиотеки и фреймворки на которых я пишу: **React**, **NestJS**, **NodeJS**, **Python** и **PHP**.  
 🔧 Использую в качестве БД: **MongoDB** и **MySQL**.  
-
-📕 Сейчас изучаю: **tarantool**.
 
 👋 Моя страница ВК: [Никита Балин](https://vk.com/this.state.developer)  
 💬 Telegram: [Lukas Andreano](https://t.me/lukasandreano)
