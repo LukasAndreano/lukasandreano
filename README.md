@@ -5,6 +5,7 @@
 ![mongodb](https://img.shields.io/badge/-MongoDB-blueviolet)
 ![mysql](https://img.shields.io/badge/-MySQL-success)
 ![python](https://img.shields.io/badge/-Python-yellow)
+![docker](https://img.shields.io/badge/-Docker-informational)
 
 ## Приветик! Я - Никита 👋 
 Девелопер и крейтор [koka team](https://vk.com/kokateam). Сейчас занят созданием web-приложений, сервисов VK Mini Apps, а также развитием [команды](https://vk.com/kokateam).   
@@ -17,16 +18,19 @@
 
 💻 Пишу на MacBook Pro M1 Pro.  
 💁‍♂️ Мне 18 лет.
+
 ### Актуальные проекты (PWA/VK Mini Apps):
 * [Приложение КИТЭК](https://app.omsktec.ru)
 * [Beat Store](https://vk.com/beatstores)
 * [steezyLink](https://vk.com/app8173597) 
-* [Уведомления](https://vk.com/app7915893)
+* [Горящие туры](https://vk.com/toursapp)
 * [Hot Ali](https://vk.com/app8154948)
 
 ### Актуальные бойлеры:
 [![VK Mini Apps Frontend Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=vkma-boilerplate)](https://github.com/lukasandreano/vkma-boilerplate)
 [![VK Mini Apps Backend Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=vkma-backend-boilerplate)](https://github.com/lukasandreano/vkma-backend-boilerplate)
+
+### Актуальные либы и модули
 [![VK Mini Apps params checker](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=vkminiapps-params-checker)](https://github.com/lukasandreano/vkminiapps-params-checker)
 [![PHP VK Bot API](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=VKBotAPI)](https://github.com/lukasandreano/VKBotAPI)
   
