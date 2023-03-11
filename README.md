@@ -22,7 +22,7 @@ Full-stack разрабочтик и СЕО [koka team](https://vk.com/kokateam)
 💻 Пишу на MacBook Pro M1 Pro.  
 💁‍♂️ Мне 18 лет.
 
-![Snake animation](https://github.com/lukasandreano/lukasandreano/blob/output/github-contribution-snake.svg)
+![Snake animation](https://github.com/lukasandreano/lukasandreano/blob/output/github-contribution-snake-gif.svg)
 
 ### Актуальные проекты (VK Mini Apps / web-приложения / iOS & Android):
 * [Приложение КИТЭК](https://app.omsktec.ru) - авто-расписание для Омского колледжа
