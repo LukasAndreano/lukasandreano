@@ -9,17 +9,18 @@
 ![python](https://img.shields.io/badge/-Python-yellow)
 ![redis](https://img.shields.io/badge/-Redis-orange)
 ![docker](https://img.shields.io/badge/-Docker-informational)
+![capacitor](https://img.shields.io/badge/-Capacitor-blueviolet)
 
 ## Приветик! Я - Никита 👋 
-Full-stack разрабочтик и СЕО [koka team](https://vk.com/kokateam). Сейчас занят созданием VK Mini Apps, web-приложений, iOS & Android приложениями из под Capacitor, а также развитием [команды](https://vk.com/kokateam).   
+Full-stack разрабочтик и СЕО [koka team](https://vk.com/kokateam). Сейчас занят созданием VK Mini Apps, web-приложений, iOS & Android приложениями из под Capacitor, а также развитием [команды](https://vk.com/kokateam) и highload проектами 🔥.
 
-🧑‍💻 Языки, библиотеки и фреймворки, которые я использую ежедневно: **React**, **NestJS**, **Next.js**, **NodeJS**, **Python** и **PHP**.  
+🧑‍💻 Языки, библиотеки и фреймворки, которые я использую ежедневно: **React**, **NestJS**, **Next.js**, **Node.JS**, **Python** и **PHP**, **Capacitor**.  
 🔧 Использую в качестве БД: **MongoDB** и **MySQL**, **Postgres**.
 
 👋 Моя страница ВК: [Никита Балин](https://vk.com/this.state.developer)  
-💬 Telegram: [Lukas Andreano](https://t.me/lukasandreano)
+💬 Telegram: [НИКИТА КОКА](https://t.me/lukasandreano)
 
-💻 Пишу на MacBook Pro M1 Pro.  
+💻 Пишу на MacBook Pro 14" M1 Pro.  
 💁‍♂️ Мне 18 лет.
 
 ![Snake animation](https://github.com/lukasandreano/lukasandreano/blob/output/github-contribution-snake-gif.svg)
