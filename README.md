@@ -20,6 +20,8 @@ Full-stack разрабочтик и СЕО [koka team](https://vk.com/kokateam)
 👋 Моя страница ВК: [Никита Балин](https://vk.com/this.state.developer)  
 💬 Telegram: [НИКИТА КОКА](https://t.me/lukasandreano)
 
+✉️ Почта для связи: [n.balin@koka.team](mailto:n.balin@koka.team)
+
 💻 Пишу на MacBook Pro 14" M1 Pro.  
 💁‍♂️ Мне 18 лет.
 
