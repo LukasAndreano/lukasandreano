@@ -10,6 +10,7 @@
 ![redis](https://img.shields.io/badge/-Redis-orange)
 ![docker](https://img.shields.io/badge/-Docker-informational)
 ![capacitor](https://img.shields.io/badge/-Capacitor-blueviolet)
+![tauri](https://img.shields.io/badge/-Tauri-red)
 
 ## Приветик! Я - Никита 👋 
 Full-stack разрабочтик и СЕО [koka team](https://vk.com/kokateam). Сейчас занят созданием VK Mini Apps, web-приложений, iOS & Android приложениями из под Capacitor, а также развитием [команды](https://vk.com/kokateam) и highload проектами 🔥.
