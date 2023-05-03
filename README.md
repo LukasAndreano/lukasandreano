@@ -44,6 +44,7 @@ Full-stack разрабочтик и СЕО [koka team](https://vk.com/kokateam)
 ### Актуальные либы и модули:
 [![VK Mini Apps params checker](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=vkminiapps-params-checker)](https://github.com/lukasandreano/vkminiapps-params-checker)
 [![Telegram Web Apps params checker](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=tgwa-params-checker)](https://github.com/lukasandreano/tgwa-params-checker)
+[![kokateam-deploy](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=kokateam-deploy)](https://github.com/lukasandreano/kokateam-deploy)
 [![PHP VK Bot API](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=VKBotAPI)](https://github.com/lukasandreano/VKBotAPI)
   
 ### Статистика:
