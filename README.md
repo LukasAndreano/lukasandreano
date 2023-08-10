@@ -30,6 +30,7 @@ Full-stack разрабочтик и СЕО [koka team](https://vk.com/kokateam)
 
 ### Актуальные проекты (VK Mini Apps / web-приложения / iOS & Android):
 * [Приложение КИТЭК](https://app.omsktec.ru) - авто-расписание для Омского колледжа
+* [OpenGPT](https://vk.com/opengpt_app) - приложение-обертка над ChatGPT
 * [Замёрзшие](https://vk.com/app51485574) - промо-сервис к выходу сериала Иви
 * [Beat Store](https://vk.com/beatstores) - маркетплейс битов
 * [Подписка на блог](https://vk.com/app8154914) - сервис для рассылки прессы и блога компании VK
