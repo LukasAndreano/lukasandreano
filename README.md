@@ -24,7 +24,7 @@ Full-stack разрабочтик и СЕО [koka team](https://vk.com/kokateam)
 ✉️ Почта для связи: [n.balin@koka.team](mailto:n.balin@koka.team)
 
 💻 Пишу на MacBook Pro 14" M1 Pro.  
-💁‍♂️ Мне 18 лет.
+💁‍♂️ Мне 19 лет.
 
 ![Snake animation](https://github.com/lukasandreano/lukasandreano/blob/output/github-snake.svg)
 
