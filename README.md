@@ -35,7 +35,8 @@ Full-stack разрабочтик и СЕО [koka team](https://vk.com/kokateam)
 * [Beat Store](https://vk.com/beatstores) - маркетплейс битов
 * [Подписка на блог](https://vk.com/app8154914) - сервис для рассылки прессы и блога компании VK
 * [steezyLink](https://vk.com/app8173597) - сервис для генерации промо-страниц к релизам (треки)
-* [Горящие туры](https://vk.com/toursapp) - подбор туров не выходя из VK! Имеется версия под iOS & Android.
+* [Справки КИТЭК](https://certificates.omsktec.ru) - внутренний сервис заказа справок в Омском колледже
+* [Горящие туры](https://vk.com/toursapp) - подбор туров не выходя из VK! Имеется версия под iOS & Android
 * [Hot Ali](https://vk.com/app8154948) - подборка самых выгодных товаров на AliExpress
 
 ### Актуальные бойлеры:
