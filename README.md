@@ -24,7 +24,7 @@ Full-stack разрабочтик и СЕО [koka team](https://vk.com/kokateam)
 ✉️ Почта для связи: [n.balin@koka.team](mailto:n.balin@koka.team)
 
 💻 Пишу на MacBook Pro 16" M1 Max.  
-💁‍♂️ Мне 19 лет.
+💁‍♂️ Мне 19 лет, а это - [мой Spotify](https://open.spotify.com/user/31w5c2xgrwhcwi7fuc3r3fczhlqm?si=496508d5db224dd8)
 
 ![Snake animation](https://github.com/lukasandreano/lukasandreano/blob/output/github-snake.svg)
 
