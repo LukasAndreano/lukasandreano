@@ -30,11 +30,13 @@ Full-stack разрабочтик и СЕО [koka team](https://vk.com/kokateam)
 
 ### Актуальные проекты (VK Mini Apps / web-приложения / iOS & Android):
 * [Приложение КИТЭК](https://app.omsktec.ru) - авто-расписание для Омского колледжа
+* [Трэшбэг](https://trash-bag.ru/) - сервис для заказа выноса мусора (iOS, Android, Web)
 * [OpenGPT](https://vk.com/opengpt_app) - приложение-обертка над ChatGPT
 * [Замёрзшие](https://vk.com/app51485574) - промо-сервис к выходу сериала Иви
 * [Beat Store](https://vk.com/beatstores) - маркетплейс битов
 * [Подписка на блог](https://vk.com/app8154914) - сервис для рассылки прессы и блога компании VK
 * [steezyLink](https://vk.com/app8173597) - сервис для генерации промо-страниц к релизам (треки)
+* [Jobazavr](https://jobazavr.ru/) - сервис для поиска работы в ритейле (iOS, Android, VK Mini App)
 * [Справки КИТЭК](https://certificates.omsktec.ru) - внутренний сервис заказа справок в Омском колледже
 * [Горящие туры](https://vk.com/toursapp) - подбор туров не выходя из VK! Имеется версия под iOS & Android
 * [Hot Ali](https://vk.com/app8154948) - подборка самых выгодных товаров на AliExpress
