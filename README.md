@@ -11,6 +11,10 @@
 ![docker](https://img.shields.io/badge/-Docker-informational)
 ![capacitor](https://img.shields.io/badge/-Capacitor-blueviolet)
 ![tauri](https://img.shields.io/badge/-Tauri-red)
+![nodejs](https://img.shields.io/badge/-Swift-informational)
+![mysql](https://img.shields.io/badge/-Kubernetes-success)
+![capacitor](https://img.shields.io/badge/-Nginx-blueviolet)
+![typescript](https://img.shields.io/badge/-Cloudflare-red)
 
 ## Приветик! Я - Никита 👋 
 Full-stack разработчик и СЕО [koka team](https://vk.com/kokateam). Сейчас занят созданием мобильных приложений и веб-сервисов, включая тех, что расположены на платформе [VK Mini Apps](https://vk.com/services), Telegram Web Apps, а также развитием [команды](https://vk.com/kokateam) и highload проектами 🔥.
