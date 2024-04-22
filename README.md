@@ -60,8 +60,7 @@ Full-stack разработчик и СЕО [koka team](https://vk.com/kokateam)
 [![PHP VK Bot API](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=VKBotAPI)](https://github.com/lukasandreano/VKBotAPI)
   
 ### Статистика:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukasandreano&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats).
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasandreano&layout=compact)
+<img src="https://myreadme.vercel.app/api/embed/lukasandreano?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ### Ачивки:
 ![](https://github-profile-trophy.vercel.app/?username=lukasandreano&theme=radical&no-frame=false&no-bg=true&margin-w=4)
