@@ -62,3 +62,6 @@ Full-stack разработчик и СЕО [koka team](https://vk.com/kokateam)
 ### Статистика:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukasandreano&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats).
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasandreano&layout=compact)
+
+### Ачивки:
+![](https://github-profile-trophy.vercel.app/?username=lukasandreano&theme=radical&no-frame=false&no-bg=true&margin-w=4)
