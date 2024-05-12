@@ -52,12 +52,12 @@ Full-stack разработчик и СЕО [koka team](https://vk.com/kokateam)
 [![VK Mini Apps Backend Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=vkma-backend-boilerplate)](https://github.com/lukasandreano/vkma-backend-boilerplate)
 
 ### Актуальные либы и модули:
-[![QIWI Reverse API](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=qiwi-reverse-api)](https://github.com/lukasandreano/qiwi-reverse-api)
 [![VK Mini Apps params checker](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=vkminiapps-params-checker)](https://github.com/lukasandreano/vkminiapps-params-checker)
 [![Telegram Web Apps params checker](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=tgwa-params-checker)](https://github.com/lukasandreano/tgwa-params-checker)
 [![kokateam-deploy](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=kokateam-deploy)](https://github.com/lukasandreano/kokateam-deploy)
 [![router-vkminiapps](https://github-readme-stats.vercel.app/api/pin/?username=kokateam&repo=router-vkminiapps)](https://github.com/kokateam/router-vkminiapps)
 [![PHP VK Bot API](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=VKBotAPI)](https://github.com/lukasandreano/VKBotAPI)
+[![QIWI Reverse API](https://github-readme-stats.vercel.app/api/pin/?username=lukasandreano&repo=qiwi-reverse-api)](https://github.com/lukasandreano/qiwi-reverse-api)
   
 ### Статистика:
 <img src="https://myreadme.vercel.app/api/embed/lukasandreano?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
