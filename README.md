@@ -60,7 +60,7 @@ Full-stack разработчик и СЕО [koka team](https://vk.com/kokateam)
 [![QIWI Reverse API](https://github-readme-stats-reyzitwos-projects.vercel.app/api/pin/?username=lukasandreano&repo=qiwi-reverse-api)](https://github.com/lukasandreano/qiwi-reverse-api)
   
 ### Статистика:
-<img src="https://myreadme.vercel.app/api/embed/lukasandreano?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://reimaginedreadme-lilac.vercel.app/api/embed/lukasandreano?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ### Ачивки:
 ![](https://github-profile-trophy.vercel.app/?username=lukasandreano&theme=radical&no-frame=false&no-bg=true&margin-w=4)
