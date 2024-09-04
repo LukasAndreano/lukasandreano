@@ -35,7 +35,7 @@ Full-stack разработчик и СЕО [koka team](https://vk.com/kokateam)
 ![Snake animation](https://github.com/lukasandreano/lukasandreano/blob/output/github-snake.svg)
 
 ### Актуальные проекты (VK Mini Apps / web-приложения / iOS & Android):
-* [Приложение КИТЭК](https://app.omsktec.ru) - авто-расписание для Омского колледжа
+* [Суперапп](https://supapp.ru) - суперприложение для Омского колледжа
 * [Трэшбэг](https://trash-bag.ru/) - сервис для заказа выноса мусора (iOS, Android, Web)
 * [OpenGPT](https://vk.com/opengpt_app) - приложение-обертка над ChatGPT
 * [Замёрзшие](https://vk.com/app51485574) - промо-сервис к выходу сериала Иви
