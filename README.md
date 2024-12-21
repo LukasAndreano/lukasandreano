@@ -17,43 +17,43 @@
 ![typescript](https://img.shields.io/badge/-Cloudflare-red)
 ![locust](https://img.shields.io/badge/-Locust-informational)
 
-## Приветик! Я - Никита 👋 
-Full-stack разработчик и СЕО [koka team](https://vk.com/kokateam). Сейчас занят разработкой мобильных приложений и веб-сервисов, включая тех, что расположены на платформе [VK Mini Apps](https://vk.com/services), Telegram Web Apps, а также развитием [команды](https://vk.com/kokateam) и highload проектами 🔥.
+## Hi there! I’m Nikita 👋
+Full-stack developer and CEO of [koka team](https://vk.com/kokateam). Currently engaged in developing mobile applications and web services, including projects on [VK Mini Apps](https://vk.com/services), Telegram Web Apps, as well as growing the [team](https://vk.com/kokateam) and working on high-load projects 🔥.  
 
-🧑‍💻 Языки, библиотеки, фреймворки и инструменты, которые я использую ежедневно: **React**, **NestJS**, **Next.js**, **Node.JS**, **Python**, **PHP**, **Swift**.  
-📦 Девопс, поэтому использую и работаю с: **Docker**, **Kubernetes**, **Lens**, **Prometheus**, **Ingress**, **Grafana**, **Nginx**, **Cloudflare**, **ArgoCD**, **Grafana**.  
-🔧 Использую в качестве БД: **MySQL**, **MongoDB**, **Postgres**, **Redis**, **SQLite**.    
-📱 Портирую веб-приложения на мобилку под **Capacitor**, а также на десктоп с **Tauri**.  
-⚡ Если нужно что-то по стресс-тестить, то умею и работаю с **Locust**.  
+🧑‍💻 Languages, libraries, frameworks, and tools I use daily: **React**, **NestJS**, **Next.js**, **Node.JS**, **Python**, **PHP**, **Swift**.  
+📦 DevOps enthusiast, working with: **Docker**, **Kubernetes**, **Lens**, **Prometheus**, **Ingress**, **Grafana**, **Nginx**, **Cloudflare**, **ArgoCD**, **Grafana**.  
+🔧 My go-to databases: **MySQL**, **MongoDB**, **Postgres**, **Redis**, **SQLite**.  
+📱 I port web applications to mobile with **Capacitor** and to desktop using **Tauri**.  
+⚡ For stress testing, I utilize **Locust**.
 
-👋 Моя страница ВК: [Никита Балин](https://vk.com/this.state.developer)  
-💬 Telegram: [НИКИТА КОКА](https://t.me/lukasandreano)
+👋 VK page: [Nikita Balin](https://vk.com/this.state.developer)  
+💬 Telegram: [NIKITA KOKA](https://t.me/lukasandreano)  
 
-✉️ Почта для связи: [n.balin@koka.team](mailto:n.balin@koka.team)
+✉️ Contact email: [n.balin@koka.team](mailto:n.balin@koka.team)
 
-💻 Пишу на MacBook Pro 16" M1 Max.  
-💁‍♂️ Мне 20 лет, а это - [мой Spotify](https://open.spotify.com/user/31w5c2xgrwhcwi7fuc3r3fczhlqm?si=496508d5db224dd8)
+💻 Coding on a MacBook Pro 16" M1 Max.    
+💁‍♂️ I'm 20 years old, and this is my [Spotify](https://open.spotify.com/user/31w5c2xgrwhcwi7fuc3r3fczhlqm?si=496508d5db224dd8)
 
 ![Snake animation](https://github.com/lukasandreano/lukasandreano/blob/output/github-snake.svg)
 
-### Актуальные проекты (VK Mini Apps / web-приложения / iOS & Android):
-* [Суперапп](https://supapp.ru) - суперприложение для Омского колледжа
-* [Трэшбэг](https://trash-bag.ru/) - сервис для заказа выноса мусора (iOS, Android, Web)
-* [OpenGPT](https://vk.com/opengpt_app) - приложение-обертка над ChatGPT
-* [Замёрзшие](https://vk.com/app51485574) - промо-сервис к выходу сериала Иви
-* [Beat Store](https://vk.com/beatstores) - маркетплейс битов
-* [Подписка на блог](https://vk.com/app8154914) - сервис для рассылки прессы и блога компании VK
-* [steezyLink](https://vk.com/app8173597) - сервис для генерации промо-страниц к релизам (треки)
-* [Jobazavr](https://jobazavr.ru/) - сервис для поиска работы в ритейле (iOS, Android, VK Mini App)
-* [Справки КИТЭК](https://certificates.omsktec.ru) - внутренний сервис заказа справок в Омском колледже
-* [Горящие туры](https://vk.com/toursapp) - подбор туров не выходя из VK! Имеется версия под iOS & Android
-* [Hot Ali](https://vk.com/app8154948) - подборка самых выгодных товаров на AliExpress
+### Current projects (VK Mini Apps / web applications / iOS & Android):
+* [Суперапп](https://supapp.ru) - a super application for the Omsk College  
+* [Трэшбэг](https://trash-bag.ru/) - a service for ordering garbage removal (iOS, Android, Web)  
+* [OpenGPT](https://vk.com/opengpt_app) - an app-wrapper for ChatGPT  
+* [Замёрзшие](https://vk.com/app51485574) - a promo service for the release of a TV series on IVI
+* [Beat Store](https://vk.com/beatstores) - a marketplace for beats
+* [Подписка на блог](https://vk.com/app8154914) - a service for distributing press releases and company blogs via VK
+* [steezyLink](https://vk.com/app8173597) - a service for generating promo pages for releases (tracks)
+* [Jobazavr](https://jobazavr.ru/) - a service for finding jobs in retail (iOS, Android, VK Mini App)
+* [Справки КИТЭК](https://certificates.omsktec.ru) - an internal service for ordering certificates at Omsk College
+* [Горящие туры](https://vk.com/toursapp) - a tour selection service available directly in VK, with versions for iOS & Android
+* [Hot Ali](https://vk.com/app8154948) - a collection of the best deals on AliExpress
 
-### Актуальные бойлеры:
+### Current boilerplates:
 [![VK Mini Apps Frontend Boilerplate](https://github-readme-stats-reyzitwos-projects.vercel.app/api/pin/?username=lukasandreano&repo=vkma-boilerplate)](https://github.com/lukasandreano/vkma-boilerplate)
 [![VK Mini Apps Backend Boilerplate](https://github-readme-stats-reyzitwos-projects.vercel.app/api/pin/?username=lukasandreano&repo=vkma-backend-boilerplate)](https://github.com/lukasandreano/vkma-backend-boilerplate)
 
-### Актуальные либы и модули:
+### Current libraries and modules:
 [![VK Mini Apps params checker](https://github-readme-stats-reyzitwos-projects.vercel.app/api/pin/?username=lukasandreano&repo=vkminiapps-params-checker)](https://github.com/lukasandreano/vkminiapps-params-checker)
 [![Telegram Web Apps params checker](https://github-readme-stats-reyzitwos-projects.vercel.app/api/pin/?username=lukasandreano&repo=tgwa-params-checker)](https://github.com/lukasandreano/tgwa-params-checker)
 [![kokateam-deploy](https://github-readme-stats-reyzitwos-projects.vercel.app/api/pin/?username=lukasandreano&repo=kokateam-deploy)](https://github.com/lukasandreano/kokateam-deploy)
@@ -61,8 +61,8 @@ Full-stack разработчик и СЕО [koka team](https://vk.com/kokateam)
 [![PHP VK Bot API](https://github-readme-stats-reyzitwos-projects.vercel.app/api/pin/?username=lukasandreano&repo=VKBotAPI)](https://github.com/lukasandreano/VKBotAPI)
 [![QIWI Reverse API](https://github-readme-stats-reyzitwos-projects.vercel.app/api/pin/?username=lukasandreano&repo=qiwi-reverse-api)](https://github.com/lukasandreano/qiwi-reverse-api)
   
-### Статистика:
+### Statistics:
 <img src="https://reimaginedreadme-lilac.vercel.app/api/embed/lukasandreano?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-### Ачивки:
+### Achievements:
 ![](https://github-profile-trophy.vercel.app/?username=lukasandreano&theme=radical&no-frame=false&no-bg=true&margin-w=4)
