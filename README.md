@@ -27,7 +27,7 @@ Full-stack developer and CEO of [koka team](https://vk.com/kokateam). Currently 
 ⚡ For stress testing, I utilize **Locust**.
 
 👋 VK page: [Nikita Balin](https://vk.com/this.state.developer)  
-💬 Telegram: [NIKITA KOKA](https://t.me/lukasandreano)  
+💬 Telegram: [НИКИТА КОКА](https://t.me/lukasandreano)  
 
 ✉️ Contact email: [n.balin@koka.team](mailto:n.balin@koka.team)
 
