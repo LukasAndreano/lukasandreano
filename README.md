@@ -69,3 +69,6 @@ Full-stack developer and CEO of [koka team](https://vk.com/kokateam). Currently 
 
 ### Achievements:
 ![](https://github-profile-trophy.vercel.app/?username=lukasandreano&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<img alt="wave animation" src="wave_animation_dark.svg#gh-dark-mode-only">
+<img alt="wave animation" src="wave_animation_light.svg#gh-light-mode-only">
