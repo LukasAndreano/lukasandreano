@@ -61,14 +61,11 @@ Full-stack developer and CEO of [koka team](https://vk.com/kokateam). Currently 
 [![PHP VK Bot API](https://github-readme-stats-reyzitwos-projects.vercel.app/api/pin/?username=lukasandreano&repo=VKBotAPI)](https://github.com/lukasandreano/VKBotAPI)
 [![QIWI Reverse API](https://github-readme-stats-reyzitwos-projects.vercel.app/api/pin/?username=lukasandreano&repo=qiwi-reverse-api)](https://github.com/lukasandreano/qiwi-reverse-api)
   
-### Statistics:
-<img src="https://reimaginedreadme-lilac.vercel.app/api/embed/lukasandreano?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-### Most used languages, libraries, frameworks and etc:
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasandreano&show_icons=true&locale=en&layout=compact&theme=light" alt="most used languages, libraries, frameworks and etc" />
+### Most used languages, libraries, frameworks and overall statistics:
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=lukasandreano&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasandreano&layout=compact&hide_border=true" /> |
+| ------------- | ------------- |
 
 ### Achievements:
 ![](https://github-profile-trophy.vercel.app/?username=lukasandreano&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<img alt="wave animation" src="wave_animation_dark.svg#gh-dark-mode-only">
-<img alt="wave animation" src="wave_animation_light.svg#gh-light-mode-only">
+<img alt="wave animation" src="wave_animation.svg">
