@@ -64,5 +64,8 @@ Full-stack developer and CEO of [koka team](https://vk.com/kokateam). Currently 
 ### Statistics:
 <img src="https://reimaginedreadme-lilac.vercel.app/api/embed/lukasandreano?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
+### Most used languages, libraries, frameworks and etc:
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasandreano&show_icons=true&locale=en&layout=compact&theme=light" alt="most used languages, libraries, frameworks and etc" />
+
 ### Achievements:
 ![](https://github-profile-trophy.vercel.app/?username=lukasandreano&theme=radical&no-frame=false&no-bg=true&margin-w=4)
