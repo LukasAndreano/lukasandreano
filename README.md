@@ -29,6 +29,8 @@ Full-stack developer and CEO of [koka team](https://vk.com/kokateam). Currently 
 👋 VK page: [Nikita Balin](https://vk.com/this.state.developer)  
 💬 Telegram: [НИКИТА КОКА](https://t.me/lukasandreano)  
 
+📺 My website: [nikitabalin.ru](https://nikitabalin.ru)  
+
 ✉️ Contact email: [n.balin@koka.team](mailto:n.balin@koka.team)
 
 💻 I'm using a MacBook Pro 16" M1 Max and Mac Mini M4 Pro.    
