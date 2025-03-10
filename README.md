@@ -16,6 +16,7 @@
 ![capacitor](https://img.shields.io/badge/-Nginx-blueviolet)
 ![typescript](https://img.shields.io/badge/-Cloudflare-red)
 ![locust](https://img.shields.io/badge/-Locust-informational)
+![go](https://img.shields.io/badge/-Go-blueviolet)
 
 ## Hi there! I’m Nikita 👋
 Full-stack developer and CEO of [koka team](https://vk.com/kokateam). Currently engaged in developing mobile applications and web services, including projects on [VK Mini Apps](https://vk.com/services), Telegram Web Apps, as well as growing the [team](https://vk.com/kokateam) and working on high-load projects 🔥.  
