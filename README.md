@@ -53,7 +53,7 @@ Full-stack developer and CEO of [koka team](https://vk.com/kokateam). Currently 
 * [Hot Ali](https://vk.com/app8154948) - a collection of the best deals on AliExpress
 
 ### Tools:
-* [To Webp](https://to-webp.koka.team/) - tool for converting images to webp  
+* [To Webp](https://to-webp.koka.team/en) - tool for converting images to webp  
 
 ### Current boilerplates:
 [![VK Mini Apps Frontend Boilerplate](https://github-readme-stats-reyzitwos-projects.vercel.app/api/pin/?username=lukasandreano&repo=vkma-boilerplate)](https://github.com/lukasandreano/vkma-boilerplate)
