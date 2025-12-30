@@ -71,7 +71,7 @@ Full-stack developer and CEO of [koka team](https://vk.com/kokateam). Currently 
 [![QIWI Reverse API](https://github-readme-stats-reyzitwos-projects.vercel.app/api/pin/?username=lukasandreano&repo=qiwi-reverse-api)](https://github.com/lukasandreano/qiwi-reverse-api)
   
 ### Most used languages, libraries, frameworks and overall statistics:
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=lukasandreano&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasandreano&layout=compact&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats-five-ecru-24.vercel.app/api?username=lukasandreano&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /> |<img align="center" src="https://github-readme-stats-five-ecru-24.vercel.app/api/top-langs/?username=lukasandreano&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
 
 ### Achievements:
