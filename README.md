@@ -25,7 +25,7 @@
 Full-stack developer and CEO of [koka team](https://vk.com/kokateam). Currently engaged in developing mobile applications and web services, including projects on [VK Mini Apps](https://vk.com/services), Telegram Web Apps, as well as growing the [team](https://vk.com/kokateam) and working on high-load projects 🔥.  
 
 🧑‍💻 Languages, libraries, frameworks, and tools I use daily: **Bun**, **Elysia**, **React**, **NestJS**, **Next.js**, **Node.JS**, **Python**, **PHP**, **Go**, **Swift**.  
-📦 DevOps enthusiast, working with: **Docker**, **Kubernetes**, **Lens**, **Prometheus**, **Ingress**, **Grafana**, **Nginx**, **Cloudflare**, **ArgoCD**, **Grafana**.  
+📦 DevOps enthusiast, working with: **Docker**, **Kubernetes**, **Lens**, **Prometheus**, **Ingress**, **Grafana**, **Nginx**, **Cloudflare**, **ArgoCD**, **Grafana**, **Ansible**.  
 🔧 My go-to databases: **MySQL**, **MongoDB**, **Postgres**, **Redis**, **SQLite**.  
 📱 I port web applications to mobile with **Capacitor** and to desktop using **Tauri**.  
 ⚡ For stress testing, I utilize **Locust**.
