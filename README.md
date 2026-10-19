@@ -37,8 +37,8 @@ Full-stack developer and CEO of [koka team](https://vk.com/kokateam). Currently 
 
 ✉️ Contact email: [n.balin@koka.team](mailto:n.balin@koka.team)
 
-💻 I'm using a MacBook Pro 16" M1 Max and Mac Mini M4 Pro.    
-💁‍♂️ I'm 21 years old, and this is my [Spotify](https://open.spotify.com/user/31w5c2xgrwhcwi7fuc3r3fczhlqm?si=496508d5db224dd8)
+💻 I'm using a MacBook Pro 16" M5 Max and Mac Mini M4 Pro.    
+💁‍♂️ I'm 22 years old, and this is my [Spotify](https://open.spotify.com/user/31w5c2xgrwhcwi7fuc3r3fczhlqm?si=496508d5db224dd8)
 
 ![Snake animation](https://github.com/lukasandreano/lukasandreano/blob/output/github-snake.svg)
 
